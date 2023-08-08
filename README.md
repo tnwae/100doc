@@ -10,7 +10,9 @@ commit summaries are prefixed with the day number like so:
 
 > day 69: frobnicated subatomic thruster widget
 
-i may mix in some emojis if they make the intent of the commits clearer, see also SG/GitCommits.md.
+i may mix in some emojis if they make the intent of the commits clearer, see also [SG/GitCommits.md][sggc].
+
+[sggc]: https://github.com/waellison/100doc/blob/main/SG/GitCommits.md
 
 ## この糞はいつに始める？
 fuck if i know.  9 august 2023 sounds like a nice day.  (that's tomorrow as i write this.)
@@ -23,10 +25,12 @@ also, the bastard ripped off the X11 logo.  :-(
 ## en quelles langues seront ces cent jours ?
 python, mostly.  maybe some js and c, possibly ruby.  i dunno.  whatever the fuck i feel like (which is mostly python, ngl).
 
-see also SG/Python.md for what i consider a non-idiotic python style guide (hint: it's mostly pep 8-based).
+see also [SG/Python.md][sgpy] for what i consider a non-idiotic python style guide (hint: it's mostly pep 8-based).
+
+[sgpy]: https://github.com/waellison/100doc/blob/main/SG/Python.md
 
 ## Wirst du während dieser Herausforderung Bier trinken?
 ja, sicherlich.  liebe ich Bier.
 
 ## what licence is this shit under?
-WTFPL.  just do whatever the fuck you want to, man.  we're all bros here, amirite?
+WTFPL.  just do whatever the fuck you want to, man (or lady).  we're all bros here (even the gals and NB pals), amirite?
